@@ -1,0 +1,302 @@
+[
+    {
+        "internal_code": "PROD001",
+        "description": "Smartphone XYZ",
+        "barcode": "1234567890123",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD002",
+        "description": "Laptop ABC",
+        "barcode": "9876543210987",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD003",
+        "description": "Camiseta Unissex",
+        "barcode": "1928374650912",
+        "categoria": "Vestuário"
+    },
+    {
+        "internal_code": "PROD004",
+        "description": "Cafeteira Elétrica",
+        "barcode": "5647382910293",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD005",
+        "description": "Geladeira Duplex",
+        "barcode": "0987654321098",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD006",
+        "description": "Fritadeira Sem Óleo",
+        "barcode": "1029384756092",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD007",
+        "description": "Relógio Esportivo",
+        "barcode": "1029384756093",
+        "categoria": "Acessórios"
+    },
+    {
+        "internal_code": "PROD008",
+        "description": "Tablet Android",
+        "barcode": "1029384756094",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD009",
+        "description": "Mouse Sem Fio",
+        "barcode": "1029384756095",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD010",
+        "description": "Teclado Mecânico",
+        "barcode": "1029384756096",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD011",
+        "description": "Monitor Full HD",
+        "barcode": "1029384756097",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD012",
+        "description": "Impressora Multifuncional",
+        "barcode": "1029384756098",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD013",
+        "description": "Notebook Gamer",
+        "barcode": "1029384756099",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD014",
+        "description": "Cadeira de Escritório",
+        "barcode": "1029384756100",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD015",
+        "description": "Headset Bluetooth",
+        "barcode": "1029384756101",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD016",
+        "description": "Ventilador de Mesa",
+        "barcode": "1029384756102",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD017",
+        "description": "Ar Condicionado Split",
+        "barcode": "1029384756103",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD018",
+        "description": "Microondas",
+        "barcode": "1029384756104",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD019",
+        "description": "Fogão 4 Bocas",
+        "barcode": "1029384756105",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD020",
+        "description": "Bicicleta Aro 26",
+        "barcode": "1029384756106",
+        "categoria": "Esportes"
+    },
+    {
+        "internal_code": "PROD021",
+        "description": "Patinete Elétrico",
+        "barcode": "1029384756107",
+        "categoria": "Esportes"
+    },
+    {
+        "internal_code": "PROD022",
+        "description": "Geladeira Inverse",
+        "barcode": "1029384756108",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD023",
+        "description": "Liquidificador",
+        "barcode": "1029384756109",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD024",
+        "description": "Batedeira Planetária",
+        "barcode": "1029384756110",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD025",
+        "description": "Máquina de Lavar",
+        "barcode": "1029384756111",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD026",
+        "description": "Televisor 4K",
+        "barcode": "1029384756112",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD027",
+        "description": "Home Theater",
+        "barcode": "1029384756113",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD028",
+        "description": "Roteador Wi-Fi",
+        "barcode": "1029384756114",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD029",
+        "description": "Switch Gigabit",
+        "barcode": "1029384756115",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD030",
+        "description": "Webcam Full HD",
+        "barcode": "1029384756116",
+        "categoria": "Informática"
+    },
+    {
+        "internal_code": "PROD031",
+        "description": "Smartwatch",
+        "barcode": "1029384756117",
+        "categoria": "Acessórios"
+    },
+    {
+        "internal_code": "PROD032",
+        "description": "Carregador Wireless",
+        "barcode": "1029384756118",
+        "categoria": "Acessórios"
+    },
+    {
+        "internal_code": "PROD033",
+        "description": "Câmera de Segurança",
+        "barcode": "1029384756119",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD034",
+        "description": "Drone com Câmera",
+        "barcode": "1029384756120",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "internal_code": "PROD035",
+        "description": "Cozinha Compacta",
+        "barcode": "1029384756121",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD036",
+        "description": "Mesa de Jantar",
+        "barcode": "1029384756122",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD037",
+        "description": "Guarda-Roupa 6 Portas",
+        "barcode": "1029384756123",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD038",
+        "description": "Cadeira Gamer",
+        "barcode": "1029384756124",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD039",
+        "description": "Sofá Retrátil",
+        "barcode": "1029384756125",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD040",
+        "description": "Cama Box Casal",
+        "barcode": "1029384756126",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD041",
+        "description": "Fogão Cooktop",
+        "barcode": "1029384756127",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD042",
+        "description": "Forno Elétrico",
+        "barcode": "1029384756128",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD043",
+        "description": "Secador de Cabelos",
+        "barcode": "1029384756129",
+        "categoria": "Beleza"
+    },
+    {
+        "internal_code": "PROD044",
+        "description": "Chapinha de Cabelo",
+        "barcode": "1029384756130",
+        "categoria": "Beleza"
+    },
+    {
+        "internal_code": "PROD045",
+        "description": "Barbeador Elétrico",
+        "barcode": "1029384756131",
+        "categoria": "Beleza"
+    },
+    {
+        "internal_code": "PROD046",
+        "description": "Lava-Louças",
+        "barcode": "1029384756132",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD047",
+        "description": "Purificador de Água",
+        "barcode": "1029384756133",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD048",
+        "description": "Luminária de Mesa",
+        "barcode": "1029384756134",
+        "categoria": "Móveis"
+    },
+    {
+        "internal_code": "PROD049",
+        "description": "Aspirador de Pó",
+        "barcode": "1029384756135",
+        "categoria": "Eletrodomésticos"
+    },
+    {
+        "internal_code": "PROD050",
+        "description": "Cafeteira Expresso",
+        "barcode": "1029384756136",
+        "categoria": "Eletrodomésticos"
+    }
+]
